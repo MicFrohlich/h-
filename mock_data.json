@@ -1,0 +1,29 @@
+{
+    "profiles": {
+        "1": {
+            "first_name": "Test",
+            "last_name": "Testerson",
+            "id_number": "9206225123084"
+        },
+        "2": {
+            "first_name": "Test",
+            "last_name": "Testerson",
+            "id_number": "9206225123084"
+        },
+        "3": {
+            "first_name": "Test",
+            "last_name": "Testerson",
+            "id_number": "9206225123084"
+        }
+    },
+    "appointments": {
+        "1": {
+            "profile_requestor_pk": "1",
+            "datetime": "2022-06-22T08:36:38+"
+        },
+        "2": {
+            "profile_requestor_pk": "2",
+            "datetime": "2022-06-22T00:00:38+"
+        }
+    }
+}
