@@ -1,5 +1,6 @@
 #!/bin/bash
-app="docker.test"
+app="homeplus-exercise-michael-f"
+
 docker build -t ${app} .
 docker run -d -P \
   --name=${app} \
